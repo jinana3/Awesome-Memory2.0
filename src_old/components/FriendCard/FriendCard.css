@@ -1,0 +1,13 @@
+.img-container{
+  border-width:5px;  
+  border-style:outset;
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+    margin: 7px 7px;
+    border-radius: 1px;
+    cursor: pointer;
+}
