@@ -12,7 +12,7 @@ This is an app built with React. The game takes in user clicks on images, and ou
 
 Please visit github pages for github deployed version
 
-Please visit [Heroku](https://pacific-bastion-11375.herokuapp.com/) for heroku deployed version.
+Please visit [Heroku](https://pacific-bastion-11375.herokuapp.com/) for heroku deployed version (deploying to Heroku require yarn install/lock file OR npm install/package lock file, not BOTH)
 
 ### Where users can get help with your project?
 
