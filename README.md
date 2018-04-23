@@ -10,8 +10,9 @@ This is an app built with React. The game takes in user clicks on images, and ou
 
 ### How users can get started with the project?
 
-Please visit github pages for github deployed version:
-Please visit Heroku for heroku deployed version:
+Please visit github pages for github deployed version
+
+Please visit [Heroku](https://pacific-bastion-11375.herokuapp.com/) for heroku deployed version.
 
 ### Where users can get help with your project?
 
