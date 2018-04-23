@@ -58,5 +58,25 @@
     "id": 12,
     "name": "Marcus",
     "image": "https://vignette.wikia.nocookie.net/harrypotter/images/8/80/Monmarcus.jpg/revision/latest/scale-to-width-down/158?cb=20100327164729"
-  }
+  },
+  {
+    "id": 13,
+    "name": "Animal0",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/09/28/15/fantastic-beasts.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Animal1",
+    "image": "https://cdn1.thr.com/sites/default/files/imagecache/scale_crop_768_433/2016/11/fb-vfx-fs-01404-h_2016.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Animal2",
+    "image": "http://digitalspyuk.cdnds.net/17/12/768x432/degmiguise.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Animal3",
+    "image": "https://img.etsystatic.com/il/14dd84/1133257130/il_570xN.1133257130_dvvr.jpg?version=1"
+  }  
 ]
